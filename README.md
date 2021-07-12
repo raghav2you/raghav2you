@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raghav2you
-- 👀 I’m interested in hackingv & game developement
+- 👀 I’m interested in hacking & game developement
 - 🌱 I’m currently learning c#, c++ and python
 - 💞️ I’m looking to collaborate with no one
 
